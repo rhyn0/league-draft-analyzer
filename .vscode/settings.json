@@ -1,0 +1,6 @@
+{
+    "files.eol": "\r\n",
+    "python.defaultInterpreterPath": "/c/Users/Ryan/.virtualenvs/league-draft-analyzer-Jd5dmFMx/Scripts/python",
+    "python.formatting.provider": "black",
+    "python.formatting.blackPath": "/c/Users/Ryan/.virtualenvs/league-draft-analyzer-Jd5dmFMx/Scripts/black"
+}
